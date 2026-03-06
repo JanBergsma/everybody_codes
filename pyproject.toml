@@ -1,0 +1,46 @@
+[tool.poetry]
+name = "everybody p6codes"
+version = "0.1.0"
+description = "everybody codes"
+authors = ["Me"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.14"
+autopep8 = "*"
+ipykernel = "*"
+ipython = "*"
+matplotlib = "*"
+memory-profiler = "*"
+nbformat = "*"
+networkx = "*"
+numpy = "*"
+pep8 = "*"
+pipenv = "*"
+plotly = "*"
+psutil = "*"
+pycodestyle = "*"
+pydot = "*"
+pytest = "*"
+scipy = "*"
+tabulate = "*"
+termcolor = "*"
+treelib = "*"
+sortedcontainers = "*"
+sympy = "*"
+colorama = "^0.4.6"
+ipympl = "^0.9.3"
+more-itertools = "^10.2.0"
+printree = "^0.2.0"
+prettyprinttree = "^2.0.0"
+sortedcollections = "^2.1.0"
+tk = "^0.1.0"
+ipyturtle3 = "^0.1.4"
+z3-solver = "^4.15.3.0"
+requests = "^2.32.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

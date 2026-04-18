@@ -1,5 +1,14 @@
 {
   "python-envs.defaultPackageManager": "ms-python.python:pip",
   "python-envs.defaultEnvManager": "ms-python.python:venv",
-  "cSpell.words": ["Amberleaf", "Battlestick", "minmax", "popleft", "warshall"]
+  "cSpell.words": [
+    "Amberleaf",
+    "Battlestick",
+    "connectionstyle",
+    "edgecolors",
+    "edgelist",
+    "minmax",
+    "popleft",
+    "warshall"
+  ]
 }

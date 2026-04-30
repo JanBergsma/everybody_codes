@@ -1,6 +1,4 @@
 {
-  "python-envs.defaultPackageManager": "ms-python.python:pip",
-  "python-envs.defaultEnvManager": "ms-python.python:venv",
   "cSpell.words": [
     "Amberleaf",
     "Battlestick",
@@ -19,8 +17,33 @@
     "Lexisearch",
     "minmax",
     "newboundary",
+    "Nullpointer",
     "popleft",
     "setrecursionlimit",
     "warshall"
-  ]
+  ],
+
+  // -----------------------------
+  // Python interpreter
+  // -----------------------------
+
+  // -----------------------------
+  // Formatting with Ruff
+  // -----------------------------
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    }
+  },
+
+  // -----------------------------
+  // Linting with Ruff
+  // -----------------------------
+  "python.linting.enabled": true,
+  "python-envs.defaultEnvManager": "ms-python.python:poetry",
+  "ruff.interpreter": ["${workspaceFolder}\\.venv\\Scripts\\python.exe"]
 }

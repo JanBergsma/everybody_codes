@@ -9,7 +9,6 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.14"
-autopep8 = "*"
 ipykernel = "*"
 ipython = "*"
 matplotlib = "*"
@@ -17,11 +16,9 @@ memory-profiler = "*"
 nbformat = "*"
 networkx = "*"
 numpy = "*"
-pep8 = "*"
 pipenv = "*"
 plotly = "*"
 psutil = "*"
-pycodestyle = "*"
 pydot = "*"
 pytest = "*"
 scipy = "*"
@@ -40,7 +37,36 @@ ipyturtle3 = "^0.1.4"
 z3-solver = "^4.15.3.0"
 requests = "^2.32.5"
 optree = "^0.19.0"
+ruff = "^0.15.12"
 
+
+[tool.ruff]
+line-length = 100
+target-version = "py314"
+
+[tool.ruff.lint]
+select = [
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "F",  # Pyflakes
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C4", # flake8-comprehensions
+    "UP", # pyupgrade
+]
+ignore = [
+    "B905", # zip-without-explicit-strict 
+    "E501", # line too long (handled by formatter)
+]
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+line-ending = "auto"
+skip-magic-trailing-comma = false
+
+# [tool.ruff.lint.flake8-quotes]
+# multiline-quotes = "single"
 
 [build-system]
 requires = ["poetry-core"]

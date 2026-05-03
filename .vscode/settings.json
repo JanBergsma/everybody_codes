@@ -28,6 +28,7 @@
     "popleft",
     "RRLL",
     "setrecursionlimit",
+    "tablefmt",
     "warshall"
   ],
 

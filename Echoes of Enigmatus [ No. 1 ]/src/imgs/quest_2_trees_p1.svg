@@ -1,0 +1,4790 @@
+<svg
+  style="float: right"
+  xmlns="http://www.w3.org/2000/svg"
+  width="400"
+  version="1.1"
+  viewBox="0 0 139.6618 493.0418"
+>
+  <defs id="defs2">
+    <path id="rect5430" d="M124.0565 68.313h59.0225v62.3015h-59.0225z"></path>
+    <path id="rect1116" d="M295.1123 42.6273h137.7191v253.578H295.1123z"></path>
+    <path id="rect900" d="M38.2553 57.9294h709.3625v943.2663H38.2553z"></path>
+    <path id="rect236" d="M38.2553 53.5574h666.7352v876.5928H38.2553z"></path>
+  </defs>
+  <g id="layer1" transform="translate(17.824 341.9542)">
+    <circle
+      id="circle10224"
+      cx="11.94"
+      cy="-251.5648"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10248"
+      cx="101.4728"
+      cy="-230.3981"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10340"
+      cx="22.5234"
+      cy="-302.9919"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10364"
+      cx="80.3061"
+      cy="-302.9919"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10424"
+      cx="11.94"
+      cy="-333.3568"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10440"
+      cx="90.8894"
+      cy="-333.3568"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle9840"
+      cx="-9.2266"
+      cy="-85.3148"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle9904"
+      cx="101.4728"
+      cy="-106.4815"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10036"
+      cx="1.3567"
+      cy="-156.5774"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle10092"
+      cx="90.8894"
+      cy="-177.7441"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle8644"
+      cx="1.3567"
+      cy="78.9905"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle8676"
+      cx="69.7227"
+      cy="100.1571"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle9604"
+      cx="33.1067"
+      cy="6.7054"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle9660"
+      cx="112.0561"
+      cy="6.7054"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #00db43;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <circle
+      id="circle6224"
+      cx="11.94"
+      cy="142.4902"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6230"
+      x="11.6508"
+      y="141.0443"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6226"
+        x="11.6508"
+        y="141.0443"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan6228"
+        x="11.6508"
+        y="148.0998"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <circle
+      id="circle6232"
+      cx="1.3567"
+      cy="121.3238"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6238"
+      x="1.0675"
+      y="119.8778"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6234"
+        x="1.0675"
+        y="119.8778"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        5
+      </tspan>
+      <tspan
+        id="tspan6236"
+        x="1.0675"
+        y="126.9334"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        B
+      </tspan>
+    </text>
+    <circle
+      id="circle6240"
+      cx="22.5234"
+      cy="121.3238"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6246"
+      x="22.2342"
+      y="119.8778"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6242"
+        x="22.2342"
+        y="119.8778"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        15
+      </tspan>
+      <tspan
+        id="tspan6244"
+        x="22.2342"
+        y="126.9334"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        D
+      </tspan>
+    </text>
+    <circle
+      id="circle6248"
+      cx="-9.2266"
+      cy="100.1571"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6254"
+      x="-9.5158"
+      y="98.7112"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6250"
+        x="-9.5158"
+        y="98.7112"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        3
+      </tspan>
+      <tspan
+        id="tspan6252"
+        x="-9.5158"
+        y="105.7667"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        C
+      </tspan>
+    </text>
+    <circle
+      id="circle6256"
+      cx="11.94"
+      cy="100.1571"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6262"
+      x="11.6508"
+      y="98.7112"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6258"
+        x="11.6508"
+        y="98.7112"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        12
+      </tspan>
+      <tspan
+        id="tspan6260"
+        x="11.6508"
+        y="105.7667"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        F
+      </tspan>
+    </text>
+    <circle
+      id="circle6264"
+      cx="33.1067"
+      cy="100.1571"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6270"
+      x="32.8175"
+      y="98.7112"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6266"
+        x="32.8175"
+        y="98.7112"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        20
+      </tspan>
+      <tspan
+        id="tspan6268"
+        x="32.8175"
+        y="105.7667"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        G
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text6278"
+      x="1.0675"
+      y="77.5445"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6274"
+        x="1.0675"
+        y="77.5445"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        4
+      </tspan>
+      <tspan
+        id="tspan6276"
+        x="1.0675"
+        y="84.6"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        E
+      </tspan>
+    </text>
+    <circle
+      id="circle6280"
+      cx="90.8894"
+      cy="142.4902"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6286"
+      x="90.6002"
+      y="141.0443"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6282"
+        x="90.6002"
+        y="141.0443"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan6284"
+        x="90.6002"
+        y="148.0998"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+    <circle
+      id="circle6288"
+      cx="80.3061"
+      cy="121.3238"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6294"
+      x="80.0169"
+      y="119.8778"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6290"
+        x="80.0169"
+        y="119.8778"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        25
+      </tspan>
+      <tspan
+        id="tspan6292"
+        x="80.0169"
+        y="126.9334"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        I
+      </tspan>
+    </text>
+    <circle
+      id="circle6296"
+      cx="101.4728"
+      cy="121.3238"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6302"
+      x="101.1836"
+      y="119.8778"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6298"
+        x="101.1836"
+        y="119.8778"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        31
+      </tspan>
+      <tspan
+        id="tspan6300"
+        x="101.1836"
+        y="126.9334"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        J
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text6310"
+      x="69.4335"
+      y="98.7112"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6306"
+        x="69.4335"
+        y="98.7112"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        21
+      </tspan>
+      <tspan
+        id="tspan6308"
+        x="69.4335"
+        y="105.7667"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        N
+      </tspan>
+    </text>
+    <circle
+      id="circle6312"
+      cx="90.8894"
+      cy="100.1571"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6318"
+      x="90.6002"
+      y="98.7112"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6314"
+        x="90.6002"
+        y="98.7112"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        27
+      </tspan>
+      <tspan
+        id="tspan6316"
+        x="90.6002"
+        y="105.7667"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        L
+      </tspan>
+    </text>
+    <circle
+      id="circle6320"
+      cx="112.0561"
+      cy="100.1571"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6326"
+      x="111.7669"
+      y="98.7112"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6322"
+        x="111.7669"
+        y="98.7112"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        32
+      </tspan>
+      <tspan
+        id="tspan6324"
+        x="111.7669"
+        y="105.7667"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        K
+      </tspan>
+    </text>
+    <circle
+      id="circle6328"
+      cx="101.4728"
+      cy="78.9905"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text6334"
+      x="101.1836"
+      y="77.5445"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan6330"
+        x="101.1836"
+        y="77.5445"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        28
+      </tspan>
+      <tspan
+        id="tspan6332"
+        x="101.1836"
+        y="84.6"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        M
+      </tspan>
+    </text>
+    <path
+      id="path6392"
+      d="m4.7102 128.826 3.1812 6.7236"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6394"
+      d="m19.3144 128.826-3.181 6.7236"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6396"
+      d="m98.2638 128.826-3.1811 6.7236"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6398"
+      d="m83.2981 128.826 3.1811 6.7236"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6400"
+      d="m-5.8453 107.5703 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6402"
+      d="m15.2657 107.5703 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6404"
+      d="m72.9595 107.5703 3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6406"
+      d="m29.7976 107.5703-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6408"
+      d="m87.5637 107.5703-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6410"
+      d="m108.6747 107.5703-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6412"
+      d="m97.6131 86.1701-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path6416"
+      d="m-2.4472 86.1701-3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <circle
+      id="circle9428"
+      cx="11.94"
+      cy="49.0385"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9434"
+      x="11.6508"
+      y="47.5926"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9430"
+        x="11.6508"
+        y="47.5926"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan9432"
+        x="11.6508"
+        y="54.6481"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <circle
+      id="circle9436"
+      cx="1.3567"
+      cy="27.8721"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9442"
+      x="1.0675"
+      y="26.4261"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9438"
+        x="1.0675"
+        y="26.4261"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        5
+      </tspan>
+      <tspan
+        id="tspan9440"
+        x="1.0675"
+        y="33.4817"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        B
+      </tspan>
+    </text>
+    <circle
+      id="circle9444"
+      cx="22.5234"
+      cy="27.8721"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9450"
+      x="22.2342"
+      y="26.4261"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9446"
+        x="22.2342"
+        y="26.4261"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        15
+      </tspan>
+      <tspan
+        id="tspan9448"
+        x="22.2342"
+        y="33.4817"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        D
+      </tspan>
+    </text>
+    <circle
+      id="circle9452"
+      cx="-9.2266"
+      cy="6.7054"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9458"
+      x="-9.5158"
+      y="5.2595"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9454"
+        x="-9.5158"
+        y="5.2595"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        3
+      </tspan>
+      <tspan
+        id="tspan9456"
+        x="-9.5158"
+        y="12.315"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        C
+      </tspan>
+    </text>
+    <circle
+      id="circle9460"
+      cx="11.94"
+      cy="6.7054"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9466"
+      x="11.6508"
+      y="5.2595"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9462"
+        x="11.6508"
+        y="5.2595"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        12
+      </tspan>
+      <tspan
+        id="tspan9464"
+        x="11.6508"
+        y="12.315"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        F
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text9474"
+      x="32.8175"
+      y="5.2595"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9470"
+        x="32.8175"
+        y="5.2595"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        20
+      </tspan>
+      <tspan
+        id="tspan9472"
+        x="32.8175"
+        y="12.315"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        G
+      </tspan>
+    </text>
+    <circle
+      id="circle9484"
+      cx="90.8894"
+      cy="49.0385"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9490"
+      x="90.6002"
+      y="47.5926"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9486"
+        x="90.6002"
+        y="47.5926"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan9488"
+        x="90.6002"
+        y="54.6481"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+    <circle
+      id="circle9492"
+      cx="80.3061"
+      cy="27.8721"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9498"
+      x="80.0169"
+      y="26.4261"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9494"
+        x="80.0169"
+        y="26.4261"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        25
+      </tspan>
+      <tspan
+        id="tspan9496"
+        x="80.0169"
+        y="33.4817"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        I
+      </tspan>
+    </text>
+    <circle
+      id="circle9500"
+      cx="101.4728"
+      cy="27.8721"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9506"
+      x="101.1836"
+      y="26.4261"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9502"
+        x="101.1836"
+        y="26.4261"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        31
+      </tspan>
+      <tspan
+        id="tspan9504"
+        x="101.1836"
+        y="33.4817"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        J
+      </tspan>
+    </text>
+    <circle
+      id="circle9516"
+      cx="90.8894"
+      cy="6.7054"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9522"
+      x="90.6002"
+      y="5.2595"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9518"
+        x="90.6002"
+        y="5.2595"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        27
+      </tspan>
+      <tspan
+        id="tspan9520"
+        x="90.6002"
+        y="12.315"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        L
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text9530"
+      x="111.7669"
+      y="5.2595"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9526"
+        x="111.7669"
+        y="5.2595"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        32
+      </tspan>
+      <tspan
+        id="tspan9528"
+        x="111.7669"
+        y="12.315"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        K
+      </tspan>
+    </text>
+    <circle
+      id="circle9532"
+      cx="101.4728"
+      cy="-14.4612"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9538"
+      x="101.1836"
+      y="-15.9072"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9534"
+        x="101.1836"
+        y="-15.9072"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        28
+      </tspan>
+      <tspan
+        id="tspan9536"
+        x="101.1836"
+        y="-8.8517"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        M
+      </tspan>
+    </text>
+    <path
+      id="path9540"
+      d="m4.7102 35.3742 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9542"
+      d="m19.3144 35.3742-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9544"
+      d="m98.2638 35.3742-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9546"
+      d="m83.2981 35.3742 3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9548"
+      d="m-5.8453 14.1186 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9550"
+      d="m15.2657 14.1186 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9554"
+      d="m29.7976 14.1186-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9556"
+      d="m87.5637 14.1186-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9558"
+      d="m108.6747 14.1186-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9560"
+      d="m97.6131-7.2816-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <circle
+      id="circle9700"
+      cx="11.94"
+      cy="-42.9817"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9706"
+      x="11.6508"
+      y="-44.4277"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9702"
+        x="11.6508"
+        y="-44.4277"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan9704"
+        x="11.6508"
+        y="-37.3722"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <circle
+      id="circle9708"
+      cx="1.3567"
+      cy="-64.1482"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9714"
+      x="1.0675"
+      y="-65.5942"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9710"
+        x="1.0675"
+        y="-65.5942"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        5
+      </tspan>
+      <tspan
+        id="tspan9712"
+        x="1.0675"
+        y="-58.5386"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        B
+      </tspan>
+    </text>
+    <circle
+      id="circle9716"
+      cx="22.5234"
+      cy="-64.1482"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9722"
+      x="22.2342"
+      y="-65.5942"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9718"
+        x="22.2342"
+        y="-65.5942"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        15
+      </tspan>
+      <tspan
+        id="tspan9720"
+        x="22.2342"
+        y="-58.5386"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        D
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text9730"
+      x="-9.5158"
+      y="-86.7608"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9726"
+        x="-9.5158"
+        y="-86.7608"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        3
+      </tspan>
+      <tspan
+        id="tspan9728"
+        x="-9.5158"
+        y="-79.7053"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        C
+      </tspan>
+    </text>
+    <circle
+      id="circle9732"
+      cx="11.94"
+      cy="-85.3148"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9738"
+      x="11.6508"
+      y="-86.7608"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9734"
+        x="11.6508"
+        y="-86.7608"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        12
+      </tspan>
+      <tspan
+        id="tspan9736"
+        x="11.6508"
+        y="-79.7053"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        F
+      </tspan>
+    </text>
+    <circle
+      id="circle9748"
+      cx="90.8894"
+      cy="-42.9817"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9754"
+      x="90.6002"
+      y="-44.4277"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9750"
+        x="90.6002"
+        y="-44.4277"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan9752"
+        x="90.6002"
+        y="-37.3722"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+    <circle
+      id="circle9756"
+      cx="80.3061"
+      cy="-64.1482"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9762"
+      x="80.0169"
+      y="-65.5942"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9758"
+        x="80.0169"
+        y="-65.5942"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        25
+      </tspan>
+      <tspan
+        id="tspan9760"
+        x="80.0169"
+        y="-58.5386"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        I
+      </tspan>
+    </text>
+    <circle
+      id="circle9764"
+      cx="101.4728"
+      cy="-64.1482"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9770"
+      x="101.1836"
+      y="-65.5942"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9766"
+        x="101.1836"
+        y="-65.5942"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        31
+      </tspan>
+      <tspan
+        id="tspan9768"
+        x="101.1836"
+        y="-58.5386"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        J
+      </tspan>
+    </text>
+    <circle
+      id="circle9772"
+      cx="90.8894"
+      cy="-85.3148"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9778"
+      x="90.6002"
+      y="-86.7608"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9774"
+        x="90.6002"
+        y="-86.7608"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        27
+      </tspan>
+      <tspan
+        id="tspan9776"
+        x="90.6002"
+        y="-79.7053"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        L
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text9794"
+      x="101.1836"
+      y="-107.9275"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9790"
+        x="101.1836"
+        y="-107.9275"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        28
+      </tspan>
+      <tspan
+        id="tspan9792"
+        x="101.1836"
+        y="-100.872"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        M
+      </tspan>
+    </text>
+    <path
+      id="path9796"
+      d="m4.7102-56.646 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9798"
+      d="m19.3144-56.646-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9800"
+      d="m98.2638-56.646-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9802"
+      d="m83.2981-56.646 3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9804"
+      d="m-5.8453-77.9016 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9806"
+      d="m15.2657-77.9016 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9810"
+      d="m87.5637-77.9016-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path9814"
+      d="m97.6131-99.3018-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <circle
+      id="circle9932"
+      cx="11.94"
+      cy="-135.411"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9938"
+      x="11.6508"
+      y="-136.857"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9934"
+        x="11.6508"
+        y="-136.857"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan9936"
+        x="11.6508"
+        y="-129.8014"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text9946"
+      x="1.0675"
+      y="-158.0234"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9942"
+        x="1.0675"
+        y="-158.0234"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        5
+      </tspan>
+      <tspan
+        id="tspan9944"
+        x="1.0675"
+        y="-150.9678"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        B
+      </tspan>
+    </text>
+    <circle
+      id="circle9948"
+      cx="22.5234"
+      cy="-156.5774"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9954"
+      x="22.2342"
+      y="-158.0234"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9950"
+        x="22.2342"
+        y="-158.0234"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        15
+      </tspan>
+      <tspan
+        id="tspan9952"
+        x="22.2342"
+        y="-150.9678"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        D
+      </tspan>
+    </text>
+    <circle
+      id="circle9964"
+      cx="11.94"
+      cy="-177.7441"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9970"
+      x="11.6508"
+      y="-179.1901"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9966"
+        x="11.6508"
+        y="-179.1901"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        12
+      </tspan>
+      <tspan
+        id="tspan9968"
+        x="11.6508"
+        y="-172.1345"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        F
+      </tspan>
+    </text>
+    <circle
+      id="circle9972"
+      cx="90.8894"
+      cy="-135.411"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9978"
+      x="90.6002"
+      y="-136.857"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9974"
+        x="90.6002"
+        y="-136.857"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan9976"
+        x="90.6002"
+        y="-129.8014"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+    <circle
+      id="circle9980"
+      cx="80.3061"
+      cy="-156.5774"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9986"
+      x="80.0169"
+      y="-158.0234"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9982"
+        x="80.0169"
+        y="-158.0234"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        25
+      </tspan>
+      <tspan
+        id="tspan9984"
+        x="80.0169"
+        y="-150.9678"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        I
+      </tspan>
+    </text>
+    <circle
+      id="circle9988"
+      cx="101.4728"
+      cy="-156.5774"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text9994"
+      x="101.1836"
+      y="-158.0234"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9990"
+        x="101.1836"
+        y="-158.0234"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        31
+      </tspan>
+      <tspan
+        id="tspan9992"
+        x="101.1836"
+        y="-150.9678"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        J
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text10002"
+      x="90.6002"
+      y="-179.1901"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan9998"
+        x="90.6002"
+        y="-179.1901"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        27
+      </tspan>
+      <tspan
+        id="tspan10000"
+        x="90.6002"
+        y="-172.1345"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        L
+      </tspan>
+    </text>
+    <path
+      id="path10012"
+      d="m4.7102-149.0753 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10014"
+      d="m19.3144-149.0753-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10016"
+      d="m98.2638-149.0753-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10018"
+      d="m83.2981-149.0753 3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10022"
+      d="m15.2657-170.3309 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10024"
+      d="m87.5637-170.3309-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <circle
+      id="circle10124"
+      cx="11.94"
+      cy="-209.2317"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text10130"
+      x="11.6508"
+      y="-210.6777"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10126"
+        x="11.6508"
+        y="-210.6777"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan10128"
+        x="11.6508"
+        y="-203.6221"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <circle
+      id="circle10140"
+      cx="22.5234"
+      cy="-230.3981"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text10146"
+      x="22.2342"
+      y="-231.8441"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10142"
+        x="22.2342"
+        y="-231.8441"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        15
+      </tspan>
+      <tspan
+        id="tspan10144"
+        x="22.2342"
+        y="-224.7886"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        D
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text10154"
+      x="11.6508"
+      y="-253.0108"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10150"
+        x="11.6508"
+        y="-253.0108"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        12
+      </tspan>
+      <tspan
+        id="tspan10152"
+        x="11.6508"
+        y="-245.9552"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        F
+      </tspan>
+    </text>
+    <circle
+      id="circle10156"
+      cx="90.8894"
+      cy="-209.2317"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text10162"
+      x="90.6002"
+      y="-210.6777"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10158"
+        x="90.6002"
+        y="-210.6777"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan10160"
+        x="90.6002"
+        y="-203.6221"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+    <circle
+      id="circle10164"
+      cx="80.3061"
+      cy="-230.3981"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text10170"
+      x="80.0169"
+      y="-231.8441"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10166"
+        x="80.0169"
+        y="-231.8441"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        25
+      </tspan>
+      <tspan
+        id="tspan10168"
+        x="80.0169"
+        y="-224.7886"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        I
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text10178"
+      x="101.1836"
+      y="-231.8441"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10174"
+        x="101.1836"
+        y="-231.8441"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        31
+      </tspan>
+      <tspan
+        id="tspan10176"
+        x="101.1836"
+        y="-224.7886"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        J
+      </tspan>
+    </text>
+    <path
+      id="path10190"
+      d="m19.3144-222.896-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10192"
+      d="m98.2638-222.896-3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10194"
+      d="m83.2981-222.896 3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10196"
+      d="m15.2657-244.1516 3.1812 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <circle
+      id="circle10276"
+      cx="11.94"
+      cy="-281.8255"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text10282"
+      x="11.6508"
+      y="-283.2715"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10278"
+        x="11.6508"
+        y="-283.2715"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan10280"
+        x="11.6508"
+        y="-276.2159"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text10290"
+      x="22.2342"
+      y="-304.4379"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10286"
+        x="22.2342"
+        y="-304.4379"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        15
+      </tspan>
+      <tspan
+        id="tspan10288"
+        x="22.2342"
+        y="-297.3823"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        D
+      </tspan>
+    </text>
+    <circle
+      id="circle10300"
+      cx="90.8894"
+      cy="-281.8255"
+      r="8.0974"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></circle>
+    <text
+      xml:space="preserve"
+      id="text10306"
+      x="90.6002"
+      y="-283.2715"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10302"
+        x="90.6002"
+        y="-283.2715"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan10304"
+        x="90.6002"
+        y="-276.2159"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text10314"
+      x="80.0169"
+      y="-304.4379"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10310"
+        x="80.0169"
+        y="-304.4379"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        25
+      </tspan>
+      <tspan
+        id="tspan10312"
+        x="80.0169"
+        y="-297.3823"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        I
+      </tspan>
+    </text>
+    <path
+      id="path10324"
+      d="m19.3144-295.4898-3.181 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <path
+      id="path10328"
+      d="m83.2981-295.4898 3.1811 6.7237"
+      style="
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    ></path>
+    <text
+      xml:space="preserve"
+      id="text10394"
+      x="11.6508"
+      y="-334.8028"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10390"
+        x="11.6508"
+        y="-334.8028"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        10
+      </tspan>
+      <tspan
+        id="tspan10392"
+        x="11.6508"
+        y="-327.7473"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        A
+      </tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      id="text10410"
+      x="90.6002"
+      y="-334.8028"
+      style="
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        font-stretch: normal;
+        font-size: 5.64444px;
+        font-family: sans-serif;
+        -inkscape-font-specification: &quot;sans-serif Bold&quot;;
+        text-align: center;
+        text-anchor: middle;
+        fill: none;
+        fill-opacity: 1;
+        fill-rule: evenodd;
+        stroke: #aaa;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+        paint-order: stroke fill markers;
+      "
+    >
+      <tspan
+        id="tspan10406"
+        x="90.6002"
+        y="-334.8028"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        30
+      </tspan>
+      <tspan
+        id="tspan10408"
+        x="90.6002"
+        y="-327.7473"
+        style="
+          font-size: 5.64444px;
+          fill: #aaa;
+          fill-opacity: 1;
+          stroke: none;
+          stroke-width: 1;
+          stroke-dasharray: none;
+        "
+      >
+        H
+      </tspan>
+    </text>
+  </g>
+</svg>

@@ -4,17 +4,21 @@
     "Battlestick",
     "bron",
     "Byter",
+    "CFGNLK",
     "connectionstyle",
     "Decryptor",
     "dests",
+    "drawsvg",
     "edgecolors",
     "edgelist",
     "Encriptus",
     "Enigmatus",
     "ERHB",
+    "EVERYBODYCODES",
     "figsize",
     "Gliderbit",
     "IECBV",
+    "imgs",
     "indici",
     "Karp",
     "kerbosch",
@@ -36,7 +40,9 @@
     "tablefmt",
     "warshall"
   ],
-
+  "files.associations": {
+    "*.svg": "html"
+  },
   // -----------------------------
   // Python interpreter
   // -----------------------------
@@ -57,7 +63,10 @@
   // -----------------------------
   // Linting with Ruff
   // -----------------------------
-  "python.linting.enabled": true,
   "python-envs.defaultEnvManager": "ms-python.python:poetry",
-  "ruff.interpreter": ["${workspaceFolder}\\.venv\\Scripts\\python.exe"]
+  "ruff.interpreter": ["${workspaceFolder}\\.venv\\Scripts\\python.exe"],
+  "editor.defaultFormatter": null,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

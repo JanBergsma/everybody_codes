@@ -8,6 +8,8 @@
     "connectionstyle",
     "Decryptor",
     "dests",
+    "DJCGL",
+    "DJMGL",
     "drawsvg",
     "edgecolors",
     "edgelist",
@@ -26,6 +28,7 @@
     "kruskal",
     "Lexisearch",
     "Lipińska",
+    "MGFLNK",
     "minmax",
     "Monika",
     "moonstorks",
@@ -38,7 +41,8 @@
     "setrecursionlimit",
     "sparkballs",
     "tablefmt",
-    "warshall"
+    "warshall",
+    "ZTGWTBWL"
   ],
   "files.associations": {
     "*.svg": "html"

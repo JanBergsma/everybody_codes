@@ -1,0 +1,27 @@
+Aureath,Uraklyr,Quarnpyxis,Quarnath,Dalfroth,Urithgnar,Urithoth,Torfyr,Aurefroth,Laznoris,Lazoth,Quarnfyr,Tornoris,Maralfyr,Maralnar,Urakath,Dalath,Kazfroth,Urithnar,Urithfroth,Torlyr,Quarnfroth,Quarnlyr,Urithfroth,Tharnlyr,Lazgnar,Tharnfroth,Aurenar,Urakfyr,Lazfroth,Tharnnoris,Aurepyxis,Tharnath,Tharnoth,Kaznoris,Maralath,Urakpyxis,Tharnfyr,Lazfyr,Aureoth,Quarngnar,Torfroth,Lazlyr,Torpyxis,Maralfroth,Kazlyr,Laznar,Dalpyxis,Daloth,Torfroth,Urakfroth,Kazpyxis,Uraknar,Aurefyr,Dalfyr,Lazfroth,Maralpyxis,Aurefroth,Dalfroth,Maralnoris,Urithpyxis,Urakfroth,Quarnnoris,Dalnar,Lazath,Lazpyxis,Tharngnar,Marallyr,Dalgnar,Maralfroth,Aurenoris,Kazoth,Quarnoth,Urithlyr,Urithnoris,Dalnoris,Tharnnar,Tharnfroth,Auregnar,Toroth,Uraknoris,Urithath,Maralgnar,Urakgnar,Quarnfroth,Tornar,Torgnar,Torath,Aurelyr,Dallyr,Kazfyr,Tharnpyxis,Kazfroth,Urithfyr,Urakoth,Kazath,Quarnnar,Kazgnar,Kaznar,Maraloth
+
+U > r
+r > i,e,o,a,f,l,n,p,g,v
+u > v
+K > a
+M > a
+e > f,l,n,p,a,o,g
+i > t,s
+t > h
+y > r,x
+T > o,h
+h > o,v,f,l,n,p,a,g
+A > u
+p > y
+f > r,y
+D > a
+z > f,l,n,p,a,o,g
+Q > u
+n > a,o,f,l,n,p,g
+x > i
+k > f,l,n,p,a,o,g
+o > t,r,v
+g > n
+a > r,t,v,l,k
+L > a
+l > y,f,l,n,p,a,o,g

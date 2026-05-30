@@ -1,0 +1,18 @@
+Agnarzorin,Ilmarzorin,Agnarnarith,Ilmarnarith,Kyzorin,Agnarphor,Kynarith,Ilmarphor,Kyphor
+
+l > b
+n > a
+r > i,n,z,p
+i > t,n
+p > h
+K > y
+g > b
+o > r
+m > a
+A > g
+y > n,b
+h > o
+a > r
+t > h
+z > o
+I > l

@@ -121,10 +121,11 @@
   // -----------------------------
   // Linting with Ruff
   // -----------------------------
-  "python-envs.defaultEnvManager": "ms-python.python:poetry",
+  "python-envs.defaultEnvManager": "ms-python.python:system",
   "ruff.interpreter": ["${workspaceFolder}\\.venv\\Scripts\\python.exe"],
   "editor.defaultFormatter": null,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "python-envs.defaultPackageManager": "ms-python.python:pip"
 }

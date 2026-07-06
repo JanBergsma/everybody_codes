@@ -1,0 +1,464 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="400px"
+  viewBox="0 0 51.047 38.9496"
+>
+  <g
+    stroke-linecap="round"
+    stroke-width=".5"
+    transform="translate(-3.7179 -7.486)"
+  >
+    <path
+      fill="none"
+      stroke="#aaa"
+      stroke-linejoin="bevel"
+      d="M47.9144 28.6416 36.412 43.0582m11.5024-14.5319H36.463m11.6042-.0256L36.5055 13.7775m-6.8417.0255-11.656 14.7233m11.7071 0h-11.707m11.6559 14.5319h-11.656m11.656-14.5188-11.656 14.5188m-7.0038 0H5.6363m5.3677-14.5319H5.6363m5.3677-14.7488H5.6363m24.1291 0H17.9992"
+      paint-order="stroke fill markers"
+    ></path>
+    <text
+      xml:space="preserve"
+      x="13.4707"
+      y="9.6858"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="13.4707" y="9.6858">1</tspan>
+    </text>
+    <circle
+      cx="14.6394"
+      cy="13.774"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="13.4707"
+      y="24.3579"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="13.4707" y="24.3579">2</tspan>
+    </text>
+    <circle
+      cx="14.6394"
+      cy="28.4461"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="13.4707"
+      y="38.8767"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="13.4707" y="38.8767">3</tspan>
+    </text>
+    <circle
+      cx="14.6394"
+      cy="42.9649"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="31.8748"
+      y="9.6858"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="31.8748" y="9.6858">4</tspan>
+    </text>
+    <circle
+      cx="33.0434"
+      cy="13.774"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="31.8748"
+      y="24.3579"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="31.8748" y="24.3579">5</tspan>
+    </text>
+    <circle
+      cx="33.0434"
+      cy="28.4461"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="31.8748"
+      y="38.8767"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="31.8748" y="38.8767">6</tspan>
+    </text>
+    <circle
+      cx="33.0434"
+      cy="42.9649"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="50.1255"
+      y="24.3579"
+      fill="#aaa"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="50.1255" y="24.3579">7</tspan>
+    </text>
+    <circle
+      cx="51.2941"
+      cy="28.4461"
+      r="3.2207"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <text
+      xml:space="preserve"
+      x="13.6153"
+      y="14.9"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="13.6153" y="14.9">1</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="13.6153"
+      y="29.6744"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="13.6153" y="29.6744">1</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="13.6153"
+      y="44.0909"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="13.6153" y="44.0909">1</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="30.8947"
+      y="14.9"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="30.8947" y="14.9">17</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="31.048"
+      y="29.5721"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="31.048" y="29.5721">24</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="30.8947"
+      y="44.0909"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="30.8947" y="44.0909">15</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="49.0942"
+      y="29.5721"
+      fill="#ffa600"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="49.0942" y="29.5721">10</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="7.0205"
+      y="13.1619"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="7.0205" y="13.1619">1</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="7.0205"
+      y="27.9362"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="7.0205" y="27.9362">1</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="7.0205"
+      y="42.455"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="7.0205" y="42.455">1</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="21.5904"
+      y="13.1619"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="21.5904" y="13.1619">15</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="21.9483"
+      y="27.9362"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="21.9483" y="27.9362">11</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="21.5904"
+      y="42.5061"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="21.5904" y="42.5061">14</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="21.5904"
+      y="21.1881"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="21.5904" y="21.1881">3</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="19.341"
+      y="35.8602"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="19.341" y="35.8602">13</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="41.8349"
+      y="20.1145"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="41.8349" y="20.1145">15</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="38.7675"
+      y="27.834"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="38.7675" y="27.834">21</tspan>
+    </text>
+    <text
+      xml:space="preserve"
+      x="37.5406"
+      y="36.0136"
+      fill="#00db43"
+      fill-rule="evenodd"
+      stroke-linejoin="bevel"
+      font-family="Bookman Old Style"
+      font-size="3.175"
+      font-weight="700"
+      paint-order="stroke fill markers"
+      style="-inkscape-font-specification: &quot;Bookman Old Style Bold&quot;"
+    >
+      <tspan x="37.5406" y="36.0136">34</tspan>
+    </text>
+    <circle
+      cx="4.8069"
+      cy="13.774"
+      r=".839"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <circle
+      cx="4.8069"
+      cy="28.5228"
+      r=".839"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+    <circle
+      cx="4.8069"
+      cy="43.0546"
+      r=".839"
+      fill="none"
+      stroke="#00b3db"
+    ></circle>
+  </g>
+</svg>

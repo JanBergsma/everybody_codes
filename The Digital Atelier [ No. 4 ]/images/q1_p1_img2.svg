@@ -1,0 +1,1029 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="svg412"
+  width="847.106"
+  height="395.712"
+  version="1.1"
+>
+  <style id="style2">
+    .tick {
+      stroke: #aaa;
+      stroke-width: 1;
+    }
+    .label,
+    .pt {
+      fill: #aaa;
+    }
+    .label {
+      font-family: monospace;
+      font-size: 12px;
+    }
+    .arcA,
+    .arcB {
+      fill: none;
+      stroke: #eed699;
+      stroke-width: 2;
+      opacity: 0.85;
+    }
+    .arcB {
+      stroke: #00db43;
+    }
+  </style>
+  <defs id="defs94">
+    <clipPath id="clip_arc_1">
+      <path id="rect4" d="M38 319h22v12H38z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_2">
+      <path id="rect7" d="M56 300h40v21H56z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_3">
+      <path id="rect10" d="M92 319h58v30H92z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_4">
+      <path id="rect13" d="M74 282h76v39H74z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_5">
+      <path id="rect16" d="M74 319h94v48H74z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_6">
+      <path id="rect19" d="M164 264h112v57H164z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_7">
+      <path id="rect22" d="M272 319h130v66H272z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_8">
+      <path id="rect25" d="M254 246h148v75H254z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_9">
+      <path id="rect28" d="M254 319h166v84H254z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_10">
+      <path id="rect31" d="M236 228h184v93H236z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_11">
+      <path id="rect34" d="M236 319h202v102H236z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_12">
+      <path id="rect37" d="M218 210h220v111H218z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_13">
+      <path id="rect40" d="M218 319h238v120H218z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_14">
+      <path id="rect43" d="M200 192h256v129H200z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_15">
+      <path id="rect46" d="M200 319h274v138H200z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_16">
+      <path id="rect49" d="M182 174h292v147H182z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_17">
+      <path id="rect52" d="M182 319h310v156H182z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_18">
+      <path id="rect55" d="M488 156h328v165H488z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_19">
+      <path id="rect58" d="M812 319h346v174H812z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_20">
+      <path id="rect61" d="M794 138h364v183H794z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_21">
+      <path id="rect64" d="M794 319h382v192H794z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_22">
+      <path id="rect67" d="M776 120h400v201H776z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_23">
+      <path id="rect70" d="M362 319h418v210H362z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_24">
+      <path id="rect73" d="M362 102h436v219H362z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_25">
+      <path id="rect76" d="M344 319h454v228H344z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_26">
+      <path id="rect79" d="M344 84h472v237H344z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_27">
+      <path id="rect82" d="M326 319h490v246H326z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_28">
+      <path id="rect85" d="M326 66h508v255H326z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_29">
+      <path id="rect88" d="M308 319h526v264H308z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_30">
+      <path id="rect91" d="M308 48h544v273H308z"></path>
+    </clipPath>
+  </defs>
+  <path
+    id="line96"
+    d="M2.97 201.197h841.908"
+    style="stroke: #aaaaaa50; stroke-width: 2"
+  ></path>
+  <circle
+    id="circle98"
+    cx="49"
+    cy="320"
+    r="9"
+    class="arcB"
+    clip-path="url(#clip_arc_1)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle100"
+    cx="76"
+    cy="320"
+    r="18"
+    class="arcA"
+    clip-path="url(#clip_arc_2)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle102"
+    cx="121"
+    cy="320"
+    r="27"
+    class="arcB"
+    clip-path="url(#clip_arc_3)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle104"
+    cx="112"
+    cy="320"
+    r="36"
+    class="arcA"
+    clip-path="url(#clip_arc_4)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle106"
+    cx="121"
+    cy="320"
+    r="45"
+    class="arcB"
+    clip-path="url(#clip_arc_5)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle108"
+    cx="220"
+    cy="320"
+    r="54"
+    class="arcA"
+    clip-path="url(#clip_arc_6)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle110"
+    cx="337"
+    cy="320"
+    r="63"
+    class="arcB"
+    clip-path="url(#clip_arc_7)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle112"
+    cx="328"
+    cy="320"
+    r="72"
+    class="arcA"
+    clip-path="url(#clip_arc_8)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle114"
+    cx="337"
+    cy="320"
+    r="81"
+    class="arcB"
+    clip-path="url(#clip_arc_9)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle116"
+    cx="328"
+    cy="320"
+    r="90"
+    class="arcA"
+    clip-path="url(#clip_arc_10)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle118"
+    cx="337"
+    cy="320"
+    r="99"
+    class="arcB"
+    clip-path="url(#clip_arc_11)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle120"
+    cx="328"
+    cy="320"
+    r="108"
+    class="arcA"
+    clip-path="url(#clip_arc_12)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle122"
+    cx="337"
+    cy="320"
+    r="117"
+    class="arcB"
+    clip-path="url(#clip_arc_13)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle124"
+    cx="328"
+    cy="320"
+    r="126"
+    class="arcA"
+    clip-path="url(#clip_arc_14)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle126"
+    cx="337"
+    cy="320"
+    r="135"
+    class="arcB"
+    clip-path="url(#clip_arc_15)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle128"
+    cx="328"
+    cy="320"
+    r="144"
+    class="arcA"
+    clip-path="url(#clip_arc_16)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle130"
+    cx="337"
+    cy="320"
+    r="153"
+    class="arcB"
+    clip-path="url(#clip_arc_17)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle132"
+    cx="652"
+    cy="320"
+    r="162"
+    class="arcA"
+    clip-path="url(#clip_arc_18)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle134"
+    cx="985"
+    cy="320"
+    r="171"
+    class="arcB"
+    clip-path="url(#clip_arc_19)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle136"
+    cx="976"
+    cy="320"
+    r="180"
+    class="arcA"
+    clip-path="url(#clip_arc_20)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle138"
+    cx="985"
+    cy="320"
+    r="189"
+    class="arcB"
+    clip-path="url(#clip_arc_21)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle140"
+    cx="976"
+    cy="320"
+    r="198"
+    class="arcA"
+    clip-path="url(#clip_arc_22)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle142"
+    cx="571"
+    cy="320"
+    r="207"
+    class="arcB"
+    clip-path="url(#clip_arc_23)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle144"
+    cx="580"
+    cy="320"
+    r="216"
+    class="arcA"
+    clip-path="url(#clip_arc_24)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle146"
+    cx="571"
+    cy="320"
+    r="225"
+    class="arcB"
+    clip-path="url(#clip_arc_25)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle148"
+    cx="580"
+    cy="320"
+    r="234"
+    class="arcA"
+    clip-path="url(#clip_arc_26)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle150"
+    cx="571"
+    cy="320"
+    r="243"
+    class="arcB"
+    clip-path="url(#clip_arc_27)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle152"
+    cx="580"
+    cy="320"
+    r="252"
+    class="arcA"
+    clip-path="url(#clip_arc_28)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle154"
+    cx="571"
+    cy="320"
+    r="261"
+    class="arcB"
+    clip-path="url(#clip_arc_29)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <circle
+    id="circle156"
+    cx="580"
+    cy="320"
+    r="270"
+    class="arcA"
+    clip-path="url(#clip_arc_30)"
+    transform="translate(-26.727 -36.379)scale(.74242)"
+  ></circle>
+  <path id="line158" d="M2.97 197.485v7.424" class="tick"></path>
+  <text
+    id="text160"
+    x="2.97"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    0
+  </text>
+  <path id="line162" d="M16.333 197.485v7.424" class="tick"></path>
+  <path id="line164" d="M29.697 197.485v7.424" class="tick"></path>
+  <text
+    id="text166"
+    x="29.697"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    2
+  </text>
+  <path id="line168" d="M43.061 197.485v7.424" class="tick"></path>
+  <path id="line170" d="M56.424 197.485v7.424" class="tick"></path>
+  <text
+    id="text172"
+    x="56.424"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    4
+  </text>
+  <path id="line174" d="M69.788 197.485v7.424" class="tick"></path>
+  <path id="line176" d="M83.151 197.485v7.424" class="tick"></path>
+  <text
+    id="text178"
+    x="83.151"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    6
+  </text>
+  <path id="line180" d="M96.515 197.485v7.424" class="tick"></path>
+  <path id="line182" d="M109.879 197.485v7.424" class="tick"></path>
+  <text
+    id="text184"
+    x="109.879"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    8
+  </text>
+  <path id="line186" d="M123.242 197.485v7.424" class="tick"></path>
+  <path id="line188" d="M136.606 197.485v7.424" class="tick"></path>
+  <text
+    id="text190"
+    x="136.606"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    10
+  </text>
+  <path id="line192" d="M149.97 197.485v7.424" class="tick"></path>
+  <path id="line194" d="M163.333 197.485v7.424" class="tick"></path>
+  <text
+    id="text196"
+    x="163.333"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    12
+  </text>
+  <path id="line198" d="M176.697 197.485v7.424" class="tick"></path>
+  <path id="line200" d="M190.06 197.485v7.424" class="tick"></path>
+  <text
+    id="text202"
+    x="190.06"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    14
+  </text>
+  <path id="line204" d="M203.424 197.485v7.424" class="tick"></path>
+  <path id="line206" d="M216.788 197.485v7.424" class="tick"></path>
+  <text
+    id="text208"
+    x="216.788"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    16
+  </text>
+  <path id="line210" d="M230.151 197.485v7.424" class="tick"></path>
+  <path id="line212" d="M243.515 197.485v7.424" class="tick"></path>
+  <text
+    id="text214"
+    x="243.515"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    18
+  </text>
+  <path id="line216" d="M256.879 197.485v7.424" class="tick"></path>
+  <path id="line218" d="M270.242 197.485v7.424" class="tick"></path>
+  <text
+    id="text220"
+    x="270.242"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    20
+  </text>
+  <path id="line222" d="M283.606 197.485v7.424" class="tick"></path>
+  <path id="line224" d="M296.97 197.485v7.424" class="tick"></path>
+  <text
+    id="text226"
+    x="296.97"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    22
+  </text>
+  <path id="line228" d="M310.333 197.485v7.424" class="tick"></path>
+  <path id="line230" d="M323.697 197.485v7.424" class="tick"></path>
+  <text
+    id="text232"
+    x="323.697"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    24
+  </text>
+  <path id="line234" d="M337.06 197.485v7.424" class="tick"></path>
+  <path id="line236" d="M350.424 197.485v7.424" class="tick"></path>
+  <text
+    id="text238"
+    x="350.424"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    26
+  </text>
+  <path id="line240" d="M363.788 197.485v7.424" class="tick"></path>
+  <path id="line242" d="M377.151 197.485v7.424" class="tick"></path>
+  <text
+    id="text244"
+    x="377.151"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    28
+  </text>
+  <path id="line246" d="M390.515 197.485v7.424" class="tick"></path>
+  <path id="line248" d="M403.879 197.485v7.424" class="tick"></path>
+  <text
+    id="text250"
+    x="403.879"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    30
+  </text>
+  <path id="line252" d="M417.242 197.485v7.424" class="tick"></path>
+  <path id="line254" d="M430.606 197.485v7.424" class="tick"></path>
+  <text
+    id="text256"
+    x="430.606"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    32
+  </text>
+  <path id="line258" d="M443.969 197.485v7.424" class="tick"></path>
+  <path id="line260" d="M457.333 197.485v7.424" class="tick"></path>
+  <text
+    id="text262"
+    x="457.333"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    34
+  </text>
+  <path id="line264" d="M470.697 197.485v7.424" class="tick"></path>
+  <path id="line266" d="M484.06 197.485v7.424" class="tick"></path>
+  <text
+    id="text268"
+    x="484.06"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    36
+  </text>
+  <path id="line270" d="M497.424 197.485v7.424" class="tick"></path>
+  <path id="line272" d="M510.788 197.485v7.424" class="tick"></path>
+  <text
+    id="text274"
+    x="510.788"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    38
+  </text>
+  <path id="line276" d="M524.151 197.485v7.424" class="tick"></path>
+  <path id="line278" d="M537.515 197.485v7.424" class="tick"></path>
+  <text
+    id="text280"
+    x="537.515"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    40
+  </text>
+  <path id="line282" d="M550.878 197.485v7.424" class="tick"></path>
+  <path id="line284" d="M564.242 197.485v7.424" class="tick"></path>
+  <text
+    id="text286"
+    x="564.242"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    42
+  </text>
+  <path id="line288" d="M577.606 197.485v7.424" class="tick"></path>
+  <path id="line290" d="M590.969 197.485v7.424" class="tick"></path>
+  <text
+    id="text292"
+    x="590.969"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    44
+  </text>
+  <path id="line294" d="M604.333 197.485v7.424" class="tick"></path>
+  <path id="line296" d="M617.697 197.485v7.424" class="tick"></path>
+  <text
+    id="text298"
+    x="617.697"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    46
+  </text>
+  <path id="line300" d="M631.06 197.485v7.424" class="tick"></path>
+  <path id="line302" d="M644.424 197.485v7.424" class="tick"></path>
+  <text
+    id="text304"
+    x="644.424"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    48
+  </text>
+  <path id="line306" d="M657.787 197.485v7.424" class="tick"></path>
+  <path id="line308" d="M671.151 197.485v7.424" class="tick"></path>
+  <text
+    id="text310"
+    x="671.151"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    50
+  </text>
+  <path id="line312" d="M684.515 197.485v7.424" class="tick"></path>
+  <path id="line314" d="M697.878 197.485v7.424" class="tick"></path>
+  <text
+    id="text316"
+    x="697.878"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    52
+  </text>
+  <path id="line318" d="M711.242 197.485v7.424" class="tick"></path>
+  <path id="line320" d="M724.606 197.485v7.424" class="tick"></path>
+  <text
+    id="text322"
+    x="724.606"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    54
+  </text>
+  <path id="line324" d="M737.969 197.485v7.424" class="tick"></path>
+  <path id="line326" d="M751.333 197.485v7.424" class="tick"></path>
+  <text
+    id="text328"
+    x="751.333"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    56
+  </text>
+  <path id="line330" d="M764.696 197.485v7.424" class="tick"></path>
+  <path id="line332" d="M778.06 197.485v7.424" class="tick"></path>
+  <text
+    id="text334"
+    x="778.06"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    58
+  </text>
+  <path id="line336" d="M791.424 197.485v7.424" class="tick"></path>
+  <path id="line338" d="M804.787 197.485v7.424" class="tick"></path>
+  <text
+    id="text340"
+    x="804.787"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    60
+  </text>
+  <path id="line342" d="M818.151 197.485v7.424" class="tick"></path>
+  <path id="line344" d="M831.515 197.485v7.424" class="tick"></path>
+  <text
+    id="text346"
+    x="831.515"
+    y="216.045"
+    class="label"
+    style="stroke-width: 0.742424"
+    text-anchor="middle"
+  >
+    62
+  </text>
+  <path id="line348" d="M844.878 197.485v7.424" class="tick"></path>
+  <circle
+    id="circle350"
+    cx="2.97"
+    cy="201.197"
+    r="2.97"
+    style="fill: #eed699; stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle352"
+    cx="16.333"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle354"
+    cx="43.061"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle356"
+    cx="83.151"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle358"
+    cx="29.697"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle360"
+    cx="96.515"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle362"
+    cx="176.697"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle364"
+    cx="270.242"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle366"
+    cx="163.333"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle368"
+    cx="283.606"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle370"
+    cx="149.97"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle372"
+    cx="296.97"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle374"
+    cx="136.606"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle376"
+    cx="310.333"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle378"
+    cx="123.242"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle380"
+    cx="323.697"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle382"
+    cx="109.879"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle384"
+    cx="337.06"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle386"
+    cx="577.606"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle388"
+    cx="831.515"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle390"
+    cx="564.242"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle392"
+    cx="844.878"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle394"
+    cx="550.878"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle396"
+    cx="243.515"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle398"
+    cx="564.242"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle400"
+    cx="230.151"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle402"
+    cx="577.606"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle404"
+    cx="216.788"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle406"
+    cx="590.969"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle408"
+    cx="203.424"
+    cy="201.197"
+    r="2.227"
+    class="pt"
+    style="stroke-width: 0.742424"
+  ></circle>
+  <circle
+    id="circle410"
+    cx="604.333"
+    cy="201.197"
+    r="2.97"
+    style="fill: #00db43; stroke-width: 0.742424"
+  ></circle>
+</svg>

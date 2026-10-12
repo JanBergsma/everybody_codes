@@ -1,0 +1,58 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="svg381"
+  width="43"
+  height="30.176"
+  version="1.1"
+>
+  <style id="style349">
+    .tick {
+      stroke: #aaa;
+      stroke-width: 1;
+    }
+    .label {
+      font-family: monospace;
+      font-size: 12px;
+      fill: #aaa;
+    }
+  </style>
+  <defs id="defs357">
+    <clipPath id="clip_arc_137806531">
+      <path id="rect351" d="M38 319h40v21H38z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_350123977">
+      <path id="rect354" d="M56 309h22v12H56z"></path>
+    </clipPath>
+  </defs>
+  <path
+    id="line359"
+    d="M4 10h36"
+    style="stroke: #aaaaaa50; stroke-width: 2"
+  ></path>
+  <circle
+    id="circle361"
+    cx="58"
+    cy="320"
+    r="18"
+    clip-path="url(#clip_arc_137806531)"
+    style="fill: none; stroke: #00db43; stroke-width: 2; opacity: 0.85"
+    transform="translate(-36 -310)"
+  ></circle>
+  <circle
+    id="circle363"
+    cx="67"
+    cy="320"
+    r="9"
+    clip-path="url(#clip_arc_350123977)"
+    style="fill: none; stroke: #eed699; stroke-width: 2; opacity: 0.85"
+    transform="translate(-36 -310)"
+  ></circle>
+  <path id="line365" d="M4 5v10" class="tick"></path>
+  <text id="text367" x="4" y="30" class="label" text-anchor="middle">0</text>
+  <path id="line369" d="M22 5v10" class="tick"></path>
+  <path id="line371" d="M40 5v10" class="tick"></path>
+  <text id="text373" x="40" y="30" class="label" text-anchor="middle">2</text>
+  <circle id="circle375" cx="4" cy="10" r="4" style="fill: #eed699"></circle>
+  <circle id="circle377" cx="40" cy="10" r="3" style="fill: #aaa"></circle>
+  <circle id="circle379" cx="22" cy="10" r="4" style="fill: #00db43"></circle>
+</svg>

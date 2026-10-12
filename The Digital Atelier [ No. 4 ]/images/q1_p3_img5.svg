@@ -1,0 +1,103 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="svg60"
+  width="116"
+  height="92"
+  version="1.1"
+>
+  <style id="style2">
+    .tick {
+      stroke: #aaa;
+      stroke-width: 1;
+    }
+    .label,
+    .pt {
+      fill: #aaa;
+    }
+    .label {
+      font-family: monospace;
+      font-size: 12px;
+    }
+    .arcA,
+    .arcB {
+      fill: none;
+      stroke: #eed699;
+      stroke-width: 2;
+      opacity: 0.85;
+    }
+    .arcB {
+      stroke: #00db43;
+    }
+  </style>
+  <defs id="defs16">
+    <clipPath id="clip_arc_635051131">
+      <path id="rect4" d="M38 319h94v48H38z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_998284092">
+      <path id="rect7" d="M74 291h58v30H74z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_271036921">
+      <path id="rect10" d="M56 319h22v12H56z"></path>
+    </clipPath>
+    <clipPath id="clip_arc_607873387">
+      <path id="rect13" d="M56 273h94v48H56z"></path>
+    </clipPath>
+  </defs>
+  <path
+    id="line18"
+    d="M4 46h108"
+    style="stroke: #aaaaaa50; stroke-width: 2"
+  ></path>
+  <circle
+    id="circle20"
+    cx="85"
+    cy="320"
+    r="45"
+    class="arcB"
+    clip-path="url(#clip_arc_635051131)"
+    transform="translate(-36 -274)"
+  ></circle>
+  <circle
+    id="circle22"
+    cx="103"
+    cy="320"
+    r="27"
+    class="arcA"
+    clip-path="url(#clip_arc_998284092)"
+    transform="translate(-36 -274)"
+  ></circle>
+  <circle
+    id="circle24"
+    cx="67"
+    cy="320"
+    r="9"
+    class="arcB"
+    clip-path="url(#clip_arc_271036921)"
+    transform="translate(-36 -274)"
+  ></circle>
+  <circle
+    id="circle26"
+    cx="103"
+    cy="320"
+    r="45"
+    class="arcA"
+    clip-path="url(#clip_arc_607873387)"
+    transform="translate(-36 -274)"
+  ></circle>
+  <path id="line28" d="M4 41v10" class="tick"></path>
+  <text id="text30" x="4" y="66" class="label" text-anchor="middle">0</text>
+  <path id="line32" d="M22 41v10" class="tick"></path>
+  <path id="line34" d="M40 41v10" class="tick"></path>
+  <text id="text36" x="40" y="66" class="label" text-anchor="middle">2</text>
+  <path id="line38" d="M58 41v10" class="tick"></path>
+  <path id="line40" d="M76 41v10" class="tick"></path>
+  <text id="text42" x="76" y="66" class="label" text-anchor="middle">4</text>
+  <path id="line44" d="M94 41v10" class="tick"></path>
+  <path id="line46" d="M112 41v10" class="tick"></path>
+  <text id="text48" x="112" y="66" class="label" text-anchor="middle">6</text>
+  <circle id="circle50" cx="4" cy="46" r="4" style="fill: #eed699"></circle>
+  <circle id="circle52" cx="94" cy="46" r="3" class="pt"></circle>
+  <circle id="circle54" cx="40" cy="46" r="3" class="pt"></circle>
+  <circle id="circle56" cx="22" cy="46" r="3" class="pt"></circle>
+  <circle id="circle58" cx="112" cy="46" r="4" style="fill: #00db43"></circle>
+</svg>

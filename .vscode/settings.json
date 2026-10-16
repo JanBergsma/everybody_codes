@@ -7,6 +7,7 @@
     "Amberleaf",
     "Ascalgar",
     "ATCG",
+    "axisbelow",
     "Battlestick",
     "blit",
     "Braerex",
@@ -22,6 +23,7 @@
     "CTAGCGCTGAGCTGGCTGCCTGGTTGACCGCG",
     "CTTGAATTGGGCCGTTTACCTGGTTTAACCAT",
     "Decryptor",
+    "deepskyblue",
     "dests",
     "DJCGL",
     "DJMGL",
@@ -71,6 +73,7 @@
     "kmeans",
     "kruskal",
     "Lexisearch",
+    "limegreen",
     "linecap",
     "linejoin",
     "linestyle",
@@ -102,6 +105,7 @@
     "RRLL",
     "SCBA",
     "setrecursionlimit",
+    "Sierpiński",
     "sparkballs",
     "spellcaster",
     "Sugiyama",
@@ -109,6 +113,8 @@
     "svgrepo",
     "tablefmt",
     "TCTCGCGAGGATATTACTGGGCCAGACCCCCC",
+    "textcoords",
+    "thoughed",
     "Tirgryph",
     "TTTETT",
     "Uraketh",
@@ -121,6 +127,7 @@
     "Xaryt",
     "xlabel",
     "xlim",
+    "xytext",
     "ylabel",
     "ylim",
     "zorder",
@@ -155,5 +162,6 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "python-envs.defaultPackageManager": "ms-python.python:pip"
+  "python-envs.defaultPackageManager": "ms-python.python:pip",
+  "python.defaultInterpreterPath": ".venv/bin/python"
 }

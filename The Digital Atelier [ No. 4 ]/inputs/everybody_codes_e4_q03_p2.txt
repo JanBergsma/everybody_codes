@@ -1,0 +1,4 @@
+width=512
+height=512
+horizontal-offsets=00100000010
+vertical-offsets=0110010100011

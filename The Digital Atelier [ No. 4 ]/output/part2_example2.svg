@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1080" height="324" viewBox="0 0 1080 324">
+<defs>
+</defs>
+<rect x="0" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="243" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="27" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="945" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="135" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="594" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="486" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="837" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="621" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="999" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="27" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="405" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="945" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1053" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="162" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="81" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="54" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="999" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="27" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="297" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="189" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="891" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1053" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="81" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="783" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="945" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="999" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="81" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="459" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="243" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="621" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="702" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="675" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="918" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="837" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="621" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="999" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1053" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="270" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="513" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="675" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="81" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="729" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="891" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="783" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1053" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="783" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="567" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="810" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="783" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="459" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="621" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="675" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1026" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="999" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="837" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="135" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="378" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="297" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="837" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1053" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="837" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="351" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="594" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="513" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="297" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="675" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="729" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1053" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="891" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="189" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="891" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="351" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="162" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="891" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="405" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="297" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="567" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="459" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="621" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="783" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="459" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="243" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="675" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="486" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="459" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="135" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="297" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="351" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="729" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="702" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="675" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="513" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="945" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="837" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="54" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="513" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="729" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="513" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="27" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="270" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="189" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="351" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="405" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="729" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="567" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="999" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="891" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="567" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="567" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="81" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="243" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="297" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="135" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="540" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="459" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="918" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="810" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="135" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="945" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="351" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="729" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="135" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="972" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="864" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="27" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="405" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="378" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="351" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="189" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="621" y="216" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="513" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="756" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="189" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="405" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="189" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="432" y="108" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="108" y="270" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="27" y="27" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="81" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="405" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="243" y="54" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="324" y="297" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="783" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="648" y="243" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="567" y="0" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="945" y="135" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="0" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="1026" y="81" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="243" y="162" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="216" y="189" width="27" height="27" fill="green" fill-opacity="0.5" />
+<rect x="486" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="459" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="837" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1053" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="0" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="351" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="243" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="135" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="513" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="459" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="297" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="621" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1053" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="297" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="729" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="513" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="891" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="405" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="189" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="567" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="621" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="648" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="513" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="459" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="351" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="864" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="675" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="567" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="999" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="216" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="135" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="108" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="243" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="675" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="567" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="945" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="135" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="513" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="729" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1053" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="27" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="729" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="189" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="135" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="756" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="729" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="999" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="405" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="189" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="567" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="972" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="81" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="324" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="243" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="297" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="189" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="135" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="27" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="540" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="351" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="783" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="243" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="675" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="945" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="351" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="243" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="621" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="27" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="189" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="405" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="837" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="729" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="999" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="405" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="432" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="405" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="675" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="81" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="243" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="297" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="648" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="891" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="783" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1053" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="945" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="0" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="945" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="216" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="27" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="459" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="945" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="351" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="621" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1053" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="837" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="999" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="27" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="297" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="999" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="81" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="513" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="405" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="783" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="756" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="675" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="864" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="81" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="891" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="108" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="81" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="918" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="783" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1053" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="324" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="567" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="459" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="837" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="783" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="621" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="945" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="621" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="378" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="837" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="135" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="54" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="27" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="297" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="270" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="729" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="513" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="891" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="972" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="837" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="783" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="675" y="162" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="1026" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="891" y="189" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="189" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="162" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="81" y="0" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="459" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="432" y="216" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="351" y="270" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="540" y="81" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="702" y="135" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="567" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="486" y="54" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="999" y="108" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="891" y="243" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="810" y="297" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<rect x="594" y="27" width="27" height="27" fill="gold" fill-opacity="0.5" />
+<path d="M0,0 L27,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,0 L54,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,0 L81,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,0 L108,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,0 L135,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,0 L162,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,0 L189,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,0 L216,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,0 L243,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,0 L270,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,0 L297,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,0 L324,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,0 L351,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,0 L378,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,0 L405,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,0 L432,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,0 L459,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,0 L486,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,0 L513,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,0 L540,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,0 L567,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,0 L594,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,0 L621,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,0 L648,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,0 L675,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,0 L702,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,0 L729,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,0 L756,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,0 L783,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,0 L810,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,0 L837,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,0 L864,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,0 L891,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,0 L918,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,0 L945,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,0 L972,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,0 L999,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,0 L1026,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,0 L1053,0" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,0 L1080,0" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,27 L27,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,27 L54,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,27 L81,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,27 L108,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,27 L135,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,27 L162,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,27 L189,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,27 L216,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,27 L243,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,27 L270,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,27 L297,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,27 L324,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,27 L351,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,27 L378,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,27 L405,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,27 L432,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,27 L459,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,27 L486,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,27 L513,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,27 L540,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,27 L567,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,27 L594,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,27 L621,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,27 L648,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,27 L675,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,27 L702,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,27 L729,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,27 L756,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,27 L783,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,27 L810,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,27 L837,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,27 L864,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,27 L891,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,27 L918,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,27 L945,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,27 L972,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,27 L999,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,27 L1026,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,27 L1053,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,27 L1080,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,54 L27,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,54 L54,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,54 L81,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,54 L108,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,54 L135,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,54 L162,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,54 L189,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,54 L216,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,54 L243,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,54 L270,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,54 L297,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,54 L324,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,54 L351,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,54 L378,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,54 L405,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,54 L432,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,54 L459,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,54 L486,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,54 L513,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,54 L540,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,54 L567,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,54 L594,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,54 L621,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,54 L648,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,54 L675,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,54 L702,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,54 L729,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,54 L756,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,54 L783,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,54 L810,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,54 L837,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,54 L864,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,54 L891,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,54 L918,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,54 L945,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,54 L972,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,54 L999,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,54 L1026,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,54 L1053,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,54 L1080,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,81 L27,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,81 L54,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,81 L81,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,81 L108,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,81 L135,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,81 L162,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,81 L189,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,81 L216,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,81 L243,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,81 L270,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,81 L297,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,81 L324,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,81 L351,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,81 L378,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,81 L405,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,81 L432,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,81 L459,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,81 L486,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,81 L513,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,81 L540,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,81 L567,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,81 L594,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,81 L621,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,81 L648,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,81 L675,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,81 L702,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,81 L729,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,81 L756,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,81 L783,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,81 L810,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,81 L837,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,81 L864,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,81 L891,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,81 L918,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,81 L945,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,81 L972,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,81 L999,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,81 L1026,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,81 L1053,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,81 L1080,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,108 L27,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,108 L54,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,108 L81,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,108 L108,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,108 L135,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,108 L162,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,108 L189,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,108 L216,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,108 L243,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,108 L270,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,108 L297,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,108 L324,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,108 L351,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,108 L378,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,108 L405,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,108 L432,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,108 L459,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,108 L486,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,108 L513,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,108 L540,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,108 L567,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,108 L594,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,108 L621,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,108 L648,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,108 L675,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,108 L702,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,108 L729,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,108 L756,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,108 L783,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,108 L810,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,108 L837,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,108 L864,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,108 L891,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,108 L918,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,108 L945,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,108 L972,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,108 L999,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,108 L1026,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,108 L1053,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,108 L1080,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,135 L27,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,135 L54,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,135 L81,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,135 L108,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,135 L135,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,135 L162,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,135 L189,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,135 L216,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,135 L243,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,135 L270,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,135 L297,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,135 L324,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,135 L351,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,135 L378,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,135 L405,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,135 L432,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,135 L459,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,135 L486,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,135 L513,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,135 L540,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,135 L567,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,135 L594,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,135 L621,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,135 L648,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,135 L675,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,135 L702,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,135 L729,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,135 L756,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,135 L783,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,135 L810,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,135 L837,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,135 L864,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,135 L891,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,135 L918,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,135 L945,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,135 L972,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,135 L999,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,135 L1026,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,135 L1053,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,135 L1080,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,162 L27,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,162 L54,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,162 L81,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,162 L108,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,162 L135,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,162 L162,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,162 L189,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,162 L216,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,162 L243,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,162 L270,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,162 L297,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,162 L324,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,162 L351,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,162 L378,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,162 L405,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,162 L432,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,162 L459,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,162 L486,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,162 L513,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,162 L540,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,162 L567,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,162 L594,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,162 L621,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,162 L648,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,162 L675,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,162 L702,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,162 L729,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,162 L756,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,162 L783,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,162 L810,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,162 L837,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,162 L864,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,162 L891,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,162 L918,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,162 L945,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,162 L972,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,162 L999,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,162 L1026,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,162 L1053,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,162 L1080,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,189 L27,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,189 L54,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,189 L81,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,189 L108,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,189 L135,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,189 L162,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,189 L189,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,189 L216,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,189 L243,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,189 L270,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,189 L297,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,189 L324,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,189 L351,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,189 L378,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,189 L405,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,189 L432,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,189 L459,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,189 L486,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,189 L513,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,189 L540,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,189 L567,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,189 L594,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,189 L621,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,189 L648,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,189 L675,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,189 L702,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,189 L729,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,189 L756,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,189 L783,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,189 L810,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,189 L837,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,189 L864,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,189 L891,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,189 L918,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,189 L945,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,189 L972,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,189 L999,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,189 L1026,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,189 L1053,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,189 L1080,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,216 L27,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,216 L54,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,216 L81,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,216 L108,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,216 L135,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,216 L162,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,216 L189,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,216 L216,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,216 L243,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,216 L270,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,216 L297,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,216 L324,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,216 L351,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,216 L378,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,216 L405,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,216 L432,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,216 L459,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,216 L486,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,216 L513,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,216 L540,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,216 L567,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,216 L594,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,216 L621,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,216 L648,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,216 L675,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,216 L702,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,216 L729,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,216 L756,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,216 L783,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,216 L810,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,216 L837,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,216 L864,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,216 L891,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,216 L918,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,216 L945,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,216 L972,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,216 L999,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,216 L1026,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,216 L1053,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,216 L1080,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,243 L27,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,243 L54,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,243 L81,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,243 L108,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,243 L135,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,243 L162,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,243 L189,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,243 L216,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,243 L243,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,243 L270,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,243 L297,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,243 L324,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,243 L351,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,243 L378,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,243 L405,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,243 L432,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,243 L459,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,243 L486,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,243 L513,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,243 L540,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,243 L567,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,243 L594,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,243 L621,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,243 L648,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,243 L675,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,243 L702,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,243 L729,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,243 L756,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,243 L783,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,243 L810,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,243 L837,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,243 L864,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,243 L891,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,243 L918,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,243 L945,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,243 L972,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,243 L999,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,243 L1026,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,243 L1053,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,243 L1080,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,270 L27,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,270 L54,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,270 L81,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,270 L108,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,270 L135,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,270 L162,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,270 L189,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,270 L216,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,270 L243,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,270 L270,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,270 L297,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,270 L324,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,270 L351,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,270 L378,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,270 L405,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,270 L432,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,270 L459,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,270 L486,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,270 L513,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,270 L540,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,270 L567,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,270 L594,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,270 L621,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,270 L648,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,270 L675,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,270 L702,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,270 L729,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,270 L756,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,270 L783,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,270 L810,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,270 L837,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,270 L864,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,270 L891,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,270 L918,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,270 L945,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,270 L972,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,270 L999,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,270 L1026,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,270 L1053,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,270 L1080,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,297 L27,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,297 L54,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,297 L81,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,297 L108,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,297 L135,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,297 L162,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,297 L189,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,297 L216,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,297 L243,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,297 L270,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,297 L297,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,297 L324,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,297 L351,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,297 L378,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,297 L405,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,297 L432,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,297 L459,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,297 L486,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,297 L513,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,297 L540,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,297 L567,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,297 L594,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,297 L621,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,297 L648,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,297 L675,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,297 L702,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,297 L729,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,297 L756,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,297 L783,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,297 L810,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,297 L837,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,297 L864,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,297 L891,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,297 L918,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,297 L945,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,297 L972,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,297 L999,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,297 L1026,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,297 L1053,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,297 L1080,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,324 L27,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,324 L54,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,324 L81,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,324 L108,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,324 L135,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,324 L162,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,324 L189,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,324 L216,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,324 L243,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,324 L270,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,324 L297,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,324 L324,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,324 L351,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,324 L378,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,324 L405,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,324 L432,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,324 L459,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,324 L486,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,324 L513,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,324 L540,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,324 L567,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,324 L594,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,324 L621,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,324 L648,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,324 L675,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,324 L702,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,324 L729,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,324 L756,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,324 L783,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,324 L810,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,324 L837,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,324 L864,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,324 L891,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,324 L918,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,324 L945,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,324 L972,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,324 L999,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,324 L1026,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,324 L1053,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,324 L1080,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,0 L0,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,27 L0,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,54 L0,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,81 L0,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,108 L0,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,135 L0,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,162 L0,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,189 L0,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,216 L0,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,243 L0,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M0,270 L0,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M0,297 L0,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,0 L27,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,27 L27,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,54 L27,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,81 L27,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,108 L27,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,135 L27,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,162 L27,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,189 L27,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,216 L27,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,243 L27,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M27,270 L27,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M27,297 L27,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,0 L54,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,27 L54,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,54 L54,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,81 L54,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,108 L54,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,135 L54,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,162 L54,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,189 L54,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,216 L54,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,243 L54,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M54,270 L54,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M54,297 L54,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,0 L81,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,27 L81,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,54 L81,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,81 L81,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,108 L81,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,135 L81,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,162 L81,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,189 L81,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,216 L81,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,243 L81,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M81,270 L81,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M81,297 L81,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,0 L108,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,27 L108,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,54 L108,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,81 L108,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,108 L108,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,135 L108,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,162 L108,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,189 L108,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,216 L108,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,243 L108,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M108,270 L108,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M108,297 L108,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,0 L135,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,27 L135,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,54 L135,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,81 L135,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,108 L135,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,135 L135,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,162 L135,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,189 L135,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,216 L135,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,243 L135,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M135,270 L135,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M135,297 L135,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,0 L162,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,27 L162,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,54 L162,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,81 L162,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,108 L162,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,135 L162,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,162 L162,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,189 L162,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,216 L162,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,243 L162,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M162,270 L162,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M162,297 L162,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,0 L189,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,27 L189,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,54 L189,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,81 L189,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,108 L189,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,135 L189,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,162 L189,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,189 L189,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,216 L189,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,243 L189,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M189,270 L189,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M189,297 L189,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,0 L216,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,27 L216,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,54 L216,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,81 L216,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,108 L216,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,135 L216,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,162 L216,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,189 L216,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,216 L216,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,243 L216,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M216,270 L216,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M216,297 L216,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,0 L243,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,27 L243,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,54 L243,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,81 L243,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,108 L243,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,135 L243,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,162 L243,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,189 L243,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,216 L243,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,243 L243,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M243,270 L243,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M243,297 L243,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,0 L270,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,27 L270,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,54 L270,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,81 L270,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,108 L270,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,135 L270,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,162 L270,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,189 L270,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,216 L270,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,243 L270,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M270,270 L270,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M270,297 L270,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,0 L297,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,27 L297,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,54 L297,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,81 L297,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,108 L297,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,135 L297,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,162 L297,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,189 L297,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,216 L297,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,243 L297,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M297,270 L297,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M297,297 L297,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,0 L324,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,27 L324,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,54 L324,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,81 L324,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,108 L324,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,135 L324,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,162 L324,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,189 L324,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,216 L324,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,243 L324,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M324,270 L324,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M324,297 L324,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,0 L351,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,27 L351,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,54 L351,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,81 L351,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,108 L351,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,135 L351,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,162 L351,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,189 L351,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,216 L351,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,243 L351,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M351,270 L351,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M351,297 L351,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,0 L378,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,27 L378,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,54 L378,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,81 L378,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,108 L378,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,135 L378,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,162 L378,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,189 L378,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,216 L378,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,243 L378,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M378,270 L378,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M378,297 L378,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,0 L405,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,27 L405,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,54 L405,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,81 L405,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,108 L405,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,135 L405,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,162 L405,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,189 L405,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,216 L405,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,243 L405,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M405,270 L405,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M405,297 L405,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,0 L432,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,27 L432,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,54 L432,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,81 L432,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,108 L432,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,135 L432,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,162 L432,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,189 L432,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,216 L432,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,243 L432,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M432,270 L432,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M432,297 L432,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,0 L459,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,27 L459,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,54 L459,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,81 L459,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,108 L459,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,135 L459,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,162 L459,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,189 L459,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,216 L459,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,243 L459,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M459,270 L459,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M459,297 L459,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,0 L486,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,27 L486,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,54 L486,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,81 L486,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,108 L486,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,135 L486,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,162 L486,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,189 L486,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,216 L486,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,243 L486,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M486,270 L486,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M486,297 L486,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,0 L513,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,27 L513,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,54 L513,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,81 L513,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,108 L513,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,135 L513,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,162 L513,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,189 L513,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,216 L513,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,243 L513,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M513,270 L513,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M513,297 L513,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,0 L540,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,27 L540,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,54 L540,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,81 L540,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,108 L540,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,135 L540,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,162 L540,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,189 L540,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,216 L540,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,243 L540,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M540,270 L540,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M540,297 L540,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,0 L567,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,27 L567,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,54 L567,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,81 L567,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,108 L567,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,135 L567,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,162 L567,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,189 L567,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,216 L567,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,243 L567,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M567,270 L567,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M567,297 L567,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,0 L594,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,27 L594,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,54 L594,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,81 L594,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,108 L594,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,135 L594,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,162 L594,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,189 L594,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,216 L594,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,243 L594,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M594,270 L594,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M594,297 L594,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,0 L621,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,27 L621,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,54 L621,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,81 L621,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,108 L621,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,135 L621,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,162 L621,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,189 L621,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,216 L621,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,243 L621,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M621,270 L621,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M621,297 L621,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,0 L648,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,27 L648,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,54 L648,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,81 L648,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,108 L648,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,135 L648,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,162 L648,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,189 L648,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,216 L648,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,243 L648,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M648,270 L648,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M648,297 L648,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,0 L675,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,27 L675,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,54 L675,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,81 L675,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,108 L675,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,135 L675,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,162 L675,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,189 L675,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,216 L675,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,243 L675,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M675,270 L675,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M675,297 L675,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,0 L702,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,27 L702,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,54 L702,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,81 L702,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,108 L702,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,135 L702,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,162 L702,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,189 L702,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,216 L702,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,243 L702,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M702,270 L702,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M702,297 L702,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,0 L729,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,27 L729,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,54 L729,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,81 L729,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,108 L729,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,135 L729,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,162 L729,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,189 L729,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,216 L729,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,243 L729,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M729,270 L729,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M729,297 L729,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,0 L756,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,27 L756,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,54 L756,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,81 L756,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,108 L756,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,135 L756,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,162 L756,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,189 L756,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,216 L756,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,243 L756,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M756,270 L756,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M756,297 L756,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,0 L783,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,27 L783,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,54 L783,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,81 L783,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,108 L783,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,135 L783,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,162 L783,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,189 L783,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,216 L783,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,243 L783,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M783,270 L783,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M783,297 L783,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,0 L810,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,27 L810,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,54 L810,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,81 L810,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,108 L810,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,135 L810,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,162 L810,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,189 L810,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,216 L810,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,243 L810,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M810,270 L810,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M810,297 L810,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,0 L837,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,27 L837,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,54 L837,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,81 L837,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,108 L837,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,135 L837,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,162 L837,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,189 L837,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,216 L837,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,243 L837,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M837,270 L837,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M837,297 L837,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,0 L864,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,27 L864,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,54 L864,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,81 L864,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,108 L864,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,135 L864,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,162 L864,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,189 L864,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,216 L864,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,243 L864,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M864,270 L864,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M864,297 L864,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,0 L891,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,27 L891,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,54 L891,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,81 L891,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,108 L891,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,135 L891,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,162 L891,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,189 L891,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,216 L891,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,243 L891,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M891,270 L891,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M891,297 L891,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,0 L918,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,27 L918,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,54 L918,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,81 L918,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,108 L918,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,135 L918,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,162 L918,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,189 L918,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,216 L918,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,243 L918,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M918,270 L918,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M918,297 L918,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,0 L945,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,27 L945,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,54 L945,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,81 L945,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,108 L945,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,135 L945,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,162 L945,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,189 L945,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,216 L945,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,243 L945,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M945,270 L945,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M945,297 L945,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,0 L972,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,27 L972,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,54 L972,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,81 L972,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,108 L972,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,135 L972,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,162 L972,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,189 L972,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,216 L972,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,243 L972,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M972,270 L972,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M972,297 L972,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,0 L999,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,27 L999,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,54 L999,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,81 L999,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,108 L999,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,135 L999,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,162 L999,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,189 L999,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,216 L999,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,243 L999,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M999,270 L999,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M999,297 L999,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,0 L1026,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,27 L1026,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,54 L1026,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,81 L1026,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,108 L1026,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,135 L1026,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,162 L1026,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,189 L1026,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,216 L1026,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,243 L1026,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,270 L1026,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1026,297 L1026,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,0 L1053,27" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,27 L1053,54" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,54 L1053,81" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,81 L1053,108" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,108 L1053,135" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,135 L1053,162" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,162 L1053,189" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,189 L1053,216" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,216 L1053,243" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,243 L1053,270" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,270 L1053,297" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1053,297 L1053,324" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,0 L1080,27" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,27 L1080,54" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,54 L1080,81" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,81 L1080,108" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,108 L1080,135" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,135 L1080,162" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,162 L1080,189" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,189 L1080,216" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,216 L1080,243" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,243 L1080,270" stroke="grey" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,270 L1080,297" stroke="lime" stroke-width="4" stroke-linecap="round" />
+<path d="M1080,297 L1080,324" stroke="grey" stroke-width="4" stroke-linecap="round" />
+</svg>

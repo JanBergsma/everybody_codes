@@ -1,0 +1,450 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="738.124"
+  height="260.066"
+>
+  <defs>
+    <pattern
+      xlink:href="#a"
+      id="B"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="A"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="z"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="y"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="x"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="w"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="v"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="u"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="t"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="s"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="r"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="q"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="p"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="o"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="n"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="m"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="l"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="k"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="j"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="i"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="h"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="g"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="f"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="e"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="d"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="c"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      xlink:href="#a"
+      id="b"
+      patternTransform="rotate(45 -37.685 94.996)"
+    ></pattern>
+    <pattern
+      id="a"
+      width="8"
+      height="8"
+      patternTransform="rotate(45)"
+      patternUnits="userSpaceOnUse"
+    >
+      <path stroke="#eed699" stroke-width="4" d="M0 0v8" opacity=".95"></path>
+    </pattern>
+  </defs>
+  <g stroke="#aaa" stroke-opacity=".28">
+    <path
+      d="M15.865 17.53v240M39.865 17.53v240M63.865 17.53v240M87.865 17.53v240M111.865 17.53v240M135.865 17.53v240M159.865 17.53v240M183.865 17.53v240M207.865 17.53v240M231.865 17.53v240M255.865 17.53v240M279.865 17.53v240M303.865 17.53v240M327.865 17.53v240M351.865 17.53v240M375.865 17.53v240M399.865 17.53v240M423.865 17.53v240M447.865 17.53v240M471.865 17.53v240M495.865 17.53v240M519.865 17.53v240M543.865 17.53v240M567.865 17.53v240M591.865 17.53v240M615.865 17.53v240M639.865 17.53v240M663.865 17.53v240M687.865 17.53v240M711.865 17.53v240M735.865 17.53v240M15.865 17.53h720M15.865 41.53h720M15.865 65.53h720M15.865 89.53h720M15.865 113.53h720M15.865 137.53h720M15.865 161.53h720M15.865 185.53h720M15.865 209.53h720M15.865 233.53h720M15.865 257.53h720"
+    ></path>
+  </g>
+  <g
+    fill="#aaa"
+    font-family="monospace"
+    font-size="12"
+    opacity=".9"
+    text-anchor="middle"
+  >
+    <text x="72" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="96" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="120" y="62" transform="translate(-56.135 -54.47)">0</text>
+    <text x="144" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="168" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="192" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="216" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="240" y="62" transform="translate(-56.135 -54.47)">0</text>
+    <text x="264" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="288" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="312" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="336" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="360" y="62" transform="translate(-56.135 -54.47)">0</text>
+    <text x="384" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="408" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="432" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="456" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="480" y="62" transform="translate(-56.135 -54.47)">0</text>
+    <text x="504" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="528" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="552" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="576" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="600" y="62" transform="translate(-56.135 -54.47)">0</text>
+    <text x="624" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="648" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="672" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="696" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="720" y="62" transform="translate(-56.135 -54.47)">0</text>
+    <text x="744" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="768" y="62" transform="translate(-56.135 -54.47)">1</text>
+    <text x="792" y="62" transform="translate(-56.135 -54.47)">1</text>
+  </g>
+  <g
+    fill="#aaa"
+    dominant-baseline="middle"
+    font-family="monospace"
+    font-size="12"
+    opacity=".9"
+    text-anchor="end"
+  >
+    <text x="62" y="72" transform="translate(-56.135 -54.47)">1</text>
+    <text x="62" y="96" transform="translate(-56.135 -54.47)">0</text>
+    <text x="62" y="120" transform="translate(-56.135 -54.47)">0</text>
+    <text x="62" y="144" transform="translate(-56.135 -54.47)">1</text>
+    <text x="62" y="168" transform="translate(-56.135 -54.47)">1</text>
+    <text x="62" y="192" transform="translate(-56.135 -54.47)">1</text>
+    <text x="62" y="216" transform="translate(-56.135 -54.47)">0</text>
+    <text x="62" y="240" transform="translate(-56.135 -54.47)">0</text>
+    <text x="62" y="264" transform="translate(-56.135 -54.47)">1</text>
+    <text x="62" y="288" transform="translate(-56.135 -54.47)">1</text>
+    <text x="62" y="312" transform="translate(-56.135 -54.47)">1</text>
+  </g>
+  <g stroke="#00db43" stroke-linecap="round" stroke-width="2">
+    <path
+      d="M41.865 17.53h20M89.865 17.53h20M137.865 17.53h20M185.865 17.53h20M233.865 17.53h20M281.865 17.53h20M329.865 17.53h20M377.865 17.53h20M425.865 17.53h20M473.865 17.53h20M521.865 17.53h20M569.865 17.53h20M617.865 17.53h20M665.865 17.53h20M713.865 17.53h20M17.865 41.53h20M65.865 41.53h20M113.865 41.53h20M161.865 41.53h20M209.865 41.53h20M257.865 41.53h20M305.865 41.53h20M353.865 41.53h20M401.865 41.53h20M449.865 41.53h20M497.865 41.53h20M545.865 41.53h20M593.865 41.53h20M641.865 41.53h20M689.865 41.53h20M17.865 65.53h20M65.865 65.53h20M113.865 65.53h20M161.865 65.53h20M209.865 65.53h20M257.865 65.53h20M305.865 65.53h20M353.865 65.53h20M401.865 65.53h20M449.865 65.53h20M497.865 65.53h20M545.865 65.53h20M593.865 65.53h20M641.865 65.53h20M689.865 65.53h20M41.865 89.53h20M89.865 89.53h20M137.865 89.53h20M185.865 89.53h20M233.865 89.53h20M281.865 89.53h20M329.865 89.53h20M377.865 89.53h20M425.865 89.53h20M473.865 89.53h20M521.865 89.53h20M569.865 89.53h20M617.865 89.53h20M665.865 89.53h20M713.865 89.53h20M41.865 113.53h20M89.865 113.53h20M137.865 113.53h20M185.865 113.53h20M233.865 113.53h20M281.865 113.53h20M329.865 113.53h20M377.865 113.53h20M425.865 113.53h20M473.865 113.53h20M521.865 113.53h20M569.865 113.53h20M617.865 113.53h20M665.865 113.53h20M713.865 113.53h20M41.865 137.53h20M89.865 137.53h20M137.865 137.53h20M185.865 137.53h20M233.865 137.53h20M281.865 137.53h20M329.865 137.53h20M377.865 137.53h20M425.865 137.53h20M473.865 137.53h20M521.865 137.53h20M569.865 137.53h20M617.865 137.53h20M665.865 137.53h20M713.865 137.53h20M17.865 161.53h20M65.865 161.53h20M113.865 161.53h20M161.865 161.53h20M209.865 161.53h20M257.865 161.53h20M305.865 161.53h20M353.865 161.53h20M401.865 161.53h20M449.865 161.53h20M497.865 161.53h20M545.865 161.53h20M593.865 161.53h20M641.865 161.53h20M689.865 161.53h20M17.865 185.53h20M65.865 185.53h20M113.865 185.53h20M161.865 185.53h20M209.865 185.53h20M257.865 185.53h20M305.865 185.53h20M353.865 185.53h20M401.865 185.53h20M449.865 185.53h20M497.865 185.53h20M545.865 185.53h20M593.865 185.53h20M641.865 185.53h20M689.865 185.53h20M41.865 209.53h20M89.865 209.53h20M137.865 209.53h20M185.865 209.53h20M233.865 209.53h20M281.865 209.53h20M329.865 209.53h20M377.865 209.53h20M425.865 209.53h20M473.865 209.53h20M521.865 209.53h20M569.865 209.53h20M617.865 209.53h20M665.865 209.53h20M713.865 209.53h20M41.865 233.53h20M89.865 233.53h20M137.865 233.53h20M185.865 233.53h20M233.865 233.53h20M281.865 233.53h20M329.865 233.53h20M377.865 233.53h20M425.865 233.53h20M473.865 233.53h20M521.865 233.53h20M569.865 233.53h20M617.865 233.53h20M665.865 233.53h20M713.865 233.53h20M41.865 257.53h20M89.865 257.53h20M137.865 257.53h20M185.865 257.53h20M233.865 257.53h20M281.865 257.53h20M329.865 257.53h20M377.865 257.53h20M425.865 257.53h20M473.865 257.53h20M521.865 257.53h20M569.865 257.53h20M617.865 257.53h20M665.865 257.53h20M713.865 257.53h20"
+    ></path>
+  </g>
+  <g stroke="#00db43" stroke-linecap="round" stroke-width="2">
+    <path
+      d="M15.865 43.53v20M15.865 91.53v20M15.865 139.53v20M15.865 187.53v20M15.865 235.53v20M39.865 43.53v20M39.865 91.53v20M39.865 139.53v20M39.865 187.53v20M39.865 235.53v20M63.865 19.53v20M63.865 67.53v20M63.865 115.53v20M63.865 163.53v20M63.865 211.53v20M87.865 43.53v20M87.865 91.53v20M87.865 139.53v20M87.865 187.53v20M87.865 235.53v20M111.865 43.53v20M111.865 91.53v20M111.865 139.53v20M111.865 187.53v20M111.865 235.53v20M135.865 43.53v20M135.865 91.53v20M135.865 139.53v20M135.865 187.53v20M135.865 235.53v20M159.865 43.53v20M159.865 91.53v20M159.865 139.53v20M159.865 187.53v20M159.865 235.53v20M183.865 19.53v20M183.865 67.53v20M183.865 115.53v20M183.865 163.53v20M183.865 211.53v20M207.865 43.53v20M207.865 91.53v20M207.865 139.53v20M207.865 187.53v20M207.865 235.53v20M231.865 43.53v20M231.865 91.53v20M231.865 139.53v20M231.865 187.53v20M231.865 235.53v20M255.865 43.53v20M255.865 91.53v20M255.865 139.53v20M255.865 187.53v20M255.865 235.53v20M279.865 43.53v20M279.865 91.53v20M279.865 139.53v20M279.865 187.53v20M279.865 235.53v20M303.865 19.53v20M303.865 67.53v20M303.865 115.53v20M303.865 163.53v20M303.865 211.53v20M327.865 43.53v20M327.865 91.53v20M327.865 139.53v20M327.865 187.53v20M327.865 235.53v20M351.865 43.53v20M351.865 91.53v20M351.865 139.53v20M351.865 187.53v20M351.865 235.53v20M375.865 43.53v20M375.865 91.53v20M375.865 139.53v20M375.865 187.53v20M375.865 235.53v20M399.865 43.53v20M399.865 91.53v20M399.865 139.53v20M399.865 187.53v20M399.865 235.53v20M423.865 19.53v20M423.865 67.53v20M423.865 115.53v20M423.865 163.53v20M423.865 211.53v20M447.865 43.53v20M447.865 91.53v20M447.865 139.53v20M447.865 187.53v20M447.865 235.53v20M471.865 43.53v20M471.865 91.53v20M471.865 139.53v20M471.865 187.53v20M471.865 235.53v20M495.865 43.53v20M495.865 91.53v20M495.865 139.53v20M495.865 187.53v20M495.865 235.53v20M519.865 43.53v20M519.865 91.53v20M519.865 139.53v20M519.865 187.53v20M519.865 235.53v20M543.865 19.53v20M543.865 67.53v20M543.865 115.53v20M543.865 163.53v20M543.865 211.53v20M567.865 43.53v20M567.865 91.53v20M567.865 139.53v20M567.865 187.53v20M567.865 235.53v20M591.865 43.53v20M591.865 91.53v20M591.865 139.53v20M591.865 187.53v20M591.865 235.53v20M615.865 43.53v20M615.865 91.53v20M615.865 139.53v20M615.865 187.53v20M615.865 235.53v20M639.865 43.53v20M639.865 91.53v20M639.865 139.53v20M639.865 187.53v20M639.865 235.53v20M663.865 19.53v20M663.865 67.53v20M663.865 115.53v20M663.865 163.53v20M663.865 211.53v20M687.865 43.53v20M687.865 91.53v20M687.865 139.53v20M687.865 187.53v20M687.865 235.53v20M711.865 43.53v20M711.865 91.53v20M711.865 139.53v20M711.865 187.53v20M711.865 235.53v20M735.865 43.53v20M735.865 91.53v20M735.865 139.53v20M735.865 187.53v20M735.865 235.53v20"
+    ></path>
+  </g>
+  <g
+    fill="url(#a)"
+    stroke="#eed699"
+    stroke-width="2"
+    transform="translate(-56.135 -54.47)"
+  >
+    <rect
+      width="18"
+      height="18"
+      x="75"
+      y="99"
+      rx="2"
+      style="fill: url(#b)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="171"
+      y="99"
+      rx="2"
+      style="fill: url(#c)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="267"
+      y="99"
+      rx="2"
+      style="fill: url(#d)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="315"
+      y="99"
+      rx="2"
+      style="fill: url(#e)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="411"
+      y="99"
+      rx="2"
+      style="fill: url(#f)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="507"
+      y="99"
+      rx="2"
+      style="fill: url(#g)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="555"
+      y="99"
+      rx="2"
+      style="fill: url(#h)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="651"
+      y="99"
+      rx="2"
+      style="fill: url(#i)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="747"
+      y="99"
+      rx="2"
+      style="fill: url(#j)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="147"
+      y="147"
+      rx="2"
+      style="fill: url(#k)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="195"
+      y="147"
+      rx="2"
+      style="fill: url(#l)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="291"
+      y="147"
+      rx="2"
+      style="fill: url(#m)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="387"
+      y="147"
+      rx="2"
+      style="fill: url(#n)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="435"
+      y="147"
+      rx="2"
+      style="fill: url(#o)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="531"
+      y="147"
+      rx="2"
+      style="fill: url(#p)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="627"
+      y="147"
+      rx="2"
+      style="fill: url(#q)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="675"
+      y="147"
+      rx="2"
+      style="fill: url(#r)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="771"
+      y="147"
+      rx="2"
+      style="fill: url(#s)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="147"
+      y="291"
+      rx="2"
+      style="fill: url(#t)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="195"
+      y="291"
+      rx="2"
+      style="fill: url(#u)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="291"
+      y="291"
+      rx="2"
+      style="fill: url(#v)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="387"
+      y="291"
+      rx="2"
+      style="fill: url(#w)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="435"
+      y="291"
+      rx="2"
+      style="fill: url(#x)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="531"
+      y="291"
+      rx="2"
+      style="fill: url(#y)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="627"
+      y="291"
+      rx="2"
+      style="fill: url(#z)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="675"
+      y="291"
+      rx="2"
+      style="fill: url(#A)"
+    ></rect>
+    <rect
+      width="18"
+      height="18"
+      x="771"
+      y="291"
+      rx="2"
+      style="fill: url(#B)"
+    ></rect>
+  </g>
+</svg>
